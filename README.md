@@ -36,8 +36,10 @@ npm install
 3. **Start Development Server**
 
 ```bash
-npm start
+npm run dev
 ```
+
+The application will be served to http://localhost:3000/
 
 4. **Build for Production**
 
